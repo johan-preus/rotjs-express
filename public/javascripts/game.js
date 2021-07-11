@@ -6,11 +6,11 @@ const document = dom.window.document
 
 const Game = {
     init() {
-        this.display = new ROT.Display({
-            width: 50,
-            height: 50,
-        });
-        body.appendChild(this.display.getContainer())
+        // this.display = new ROT.Display({
+        //     width: 50,
+        //     height: 50,
+        // });
+        // body.appendChild(this.display.getContainer())
     }
 }
 
